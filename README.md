@@ -1,4 +1,7 @@
-### M Khorasani
+## M Khorasani
+
+[!GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkhorasani&show_icons=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkhorasani&show_icons=true&layout=compact)](https://github.com/mkhorasani/github-readme-stats)
 
 <!--
 **mkhorasani/mkhorasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,8 +43,3 @@ My work requires me to develop cloud-native data analytics applications and to d
  - [Building a Data Warehouse in Python Using PostgreSQL](https://towardsdatascience.com/building-a-data-warehouse-in-python-using-postgresql-77a42e38bd19)
 <space>
 <hr>
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkhorasani&show_icons=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkhorasani&show_icons=true)](https://github.com/mkhorasani/github-readme-stats)
-
-
