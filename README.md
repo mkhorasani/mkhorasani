@@ -1,4 +1,5 @@
 # M Khorasani
+---
 <a href="https://github-readme-stats.vercel.app/api?username=mkhorasani">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkhorasani&show_icons=true&hide_title=true" />
 </a>
@@ -20,11 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-#### 🌱 Software Developer at Iberdrola Innovation Middle East.
+## ⚡ Employment:
 
-- 🔭 Software Developer at Iberdrola Innovation Middle East. Designing, developing and implementing software solutions for the advancement of renewable energy systems and services.
-
-- ⚡ My work requires me to develop cloud-native data analytics applications and to design embedded systems. This entails creating client and server side software, producing high fidelity CAD/CAM assemblies and automating sub-systems with micro-controllers. Proficient in cloud computing, data mining, data visualization, machine learning and natural language processing.
+- 🔭 Software Developer at Iberdrola Innovation Middle East. Designing, developing and implementing software solutions for the advancement of renewable energy systems and services. My work requires me to develop cloud-native data analytics applications and to design embedded systems. This entails creating client and server side software, producing high fidelity CAD/CAM assemblies and automating sub-systems with micro-controllers. Proficient in cloud computing, data mining, data visualization, machine learning and natural language processing.
 
 ---
 ## 📫 How to reach me:
