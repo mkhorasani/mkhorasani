@@ -1,8 +1,8 @@
 # M Khorasani
-<a href="https://github.com/mkhorasani/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkhorasani&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkhorasani&show_icons=true&layout=compact" />
 </a>
 
