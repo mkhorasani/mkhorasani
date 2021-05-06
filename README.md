@@ -25,7 +25,7 @@ My work requires me to develop cloud-native data analytics applications and to d
 
 <a href="https://www.linkedin.com/in/mkhorasani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://khorasani.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://grabcad.com/m.khorasani-1" target="_blank"><img alt="GrabCAD" src="https://img.shields.io/badge/GrabCAD-GrabCad-red" /></a>
+<a href="https://grabcad.com/m.khorasani-1" target="_blank"><img alt="GrabCAD" src="https://img.shields.io/badge/GrabCAD-GrabCad-red&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 ---
 
