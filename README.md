@@ -40,3 +40,6 @@ My work requires me to develop cloud-native data analytics applications and to d
  - [Building a Data Warehouse in Python Using PostgreSQL](https://towardsdatascience.com/building-a-data-warehouse-in-python-using-postgresql-77a42e38bd19)
 <space>
 <hr>
+ 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
