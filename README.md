@@ -41,7 +41,7 @@ My work requires me to develop cloud-native data analytics applications and to d
 <space>
 <hr>
  
-![M Khorasani's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkhorasani&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkhorasani&show_icons=true&theme=radical)](https://github.com/mkhorasani/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkhorasani&show_icons=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkhorasani&show_icons=true)](https://github.com/mkhorasani/github-readme-stats)
 
 
