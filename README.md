@@ -1,7 +1,6 @@
 # M Khorasani
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkhorasani&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkhorasani&show_icons=true&layout=compact" />
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mkhorasani&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkhorasani&show_icons=true&layout=compact" />
 
 <!--
 **mkhorasani/mkhorasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 Software Developer at Iberdrola Innovation Middle East. Designing, developing and implementing software solutions for the advancement of renewable energy systems and services.
 
-My work requires me to develop cloud-native data analytics applications and to design embedded systems. This entails creating client and server side software, producing high fidelity CAD/CAM assemblies and automating sub-systems with micro-controllers. Proficient in cloud computing, data mining, data visualization, machine learning and natural language processing.
+- ⚡ My work requires me to develop cloud-native data analytics applications and to design embedded systems. This entails creating client and server side software, producing high fidelity CAD/CAM assemblies and automating sub-systems with micro-controllers. Proficient in cloud computing, data mining, data visualization, machine learning and natural language processing.
 
 ---
 ## 📫 How to reach me:
@@ -41,5 +40,3 @@ My work requires me to develop cloud-native data analytics applications and to d
  - [Generating Automated Word Documents with Python](https://towardsdatascience.com/generating-automated-word-documents-with-python-d258346e1b45)
  - [Develop and Deploy a UI with Python in Under 15 Minutes](https://towardsdatascience.com/develop-and-deploy-a-ui-with-python-in-under-15-minutes-f92e289f754b)
  - [Building a Data Warehouse in Python Using PostgreSQL](https://towardsdatascience.com/building-a-data-warehouse-in-python-using-postgresql-77a42e38bd19)
-<space>
-<hr>
