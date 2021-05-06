@@ -41,7 +41,6 @@ My work requires me to develop cloud-native data analytics applications and to d
 <space>
 <hr>
  
- ---
- 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<mkhorasani>&theme=<THEME_NAME>" />
+![M Khorasani's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkhorasani&show_icons=true&theme=radical)
+
 
