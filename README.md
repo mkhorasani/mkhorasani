@@ -1,4 +1,5 @@
 # M Khorasani
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkhorasani&show_icons=true" />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mkhorasani&show_icons=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkhorasani&show_icons=true&layout=compact)](https://github.com/mkhorasani/github-readme-stats)
