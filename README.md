@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 ## 📕 Latest Blog Posts
  - [How to Send and Receive Automated Emails Using Python](https://towardsdatascience.com/how-to-send-and-receive-automated-emails-using-python-2d2073632d29)
- - [Build a DIY Mini Radar Using Arduino, Python and Streamlit](https://towardsdatascience.com/build-a-diy-mini-radar-using-arduino-python-and-streamlit-12a368ae03a4)
+ - [Build a DIY Mini Radar Using Arduino, Python and Streamlit](https://towardsdatascience.com/build-a-diy-mini-radar-using-arduino-python-and-streamlit-c333006681d7)
  - [How to Synchronize Time Series Datasets in Python](https://towardsdatascience.com/how-to-synchronize-time-series-datasets-in-python-f2ae51bee212)
  - [How to Build a Real-time SCADA System Using Python and Arduino](https://towardsdatascience.com/how-to-build-a-real-time-scada-system-using-python-and-arduino-7b3acaf86d39)
- - [How to Generate Automated PDF Documents with Python](https://towardsdatascience.com/how-to-generate-automated-pdf-documents-with-python-4f3bcb6033e6)
+ - [How to Generate Automated PDF Documents with Python](https://towardsdatascience.com/how-to-generate-automated-pdf-documents-with-python-55981f4d9e3)
  - [Automate Microsoft Excel and Word Using Python](https://towardsdatascience.com/automate-microsoft-excel-and-word-using-python-1eee9c003471#1472-daf5030a880e)
  - [Automate and Supercharge Google Colab with JavaScript](https://towardsdatascience.com/automate-and-supercharge-google-colab-with-javascript-9f494d98489d)
  - [Creating Interactive Radar Charts with Python](https://towardsdatascience.com/creating-interactive-radar-charts-with-python-2856d06535f6)
