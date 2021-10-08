@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - **Software Developer at Iberdrola Innovation Middle East** - designing, developing and implementing software solutions for the advancement of renewable energy systems and services. My work requires me to develop cloud-native data analytics applications and to design embedded systems. This entails creating client and server side software, producing high fidelity CAD/CAM assemblies and automating sub-systems with micro-controllers. Proficient in cloud computing, data mining, data visualization, machine learning and natural language processing.
 
 ## 📕 Latest Blog Posts
- - [How to Send and Receive Automated Emails Using Python](https://towardsdatascience.com/how-to-send-and-receive-automated-emails-using-python-2d2073632d29)
+ - [How to Send and Receive Automated Emails Using Python](https://towardsdatascience.com/how-to-send-and-receive-automated-emails-using-python-a5c711c7a35c)
  - [Build a DIY Mini Radar Using Arduino, Python and Streamlit](https://towardsdatascience.com/build-a-diy-mini-radar-using-arduino-python-and-streamlit-c333006681d7)
  - [How to Synchronize Time Series Datasets in Python](https://towardsdatascience.com/how-to-synchronize-time-series-datasets-in-python-f2ae51bee212)
  - [How to Build a Real-time SCADA System Using Python and Arduino](https://towardsdatascience.com/how-to-build-a-real-time-scada-system-using-python-and-arduino-7b3acaf86d39)
