@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ## 🌱 Projects:
 - **Founder of [DummyLearn.com](https://dummylearn.com/)** - a free online machine learning platform. All plug & play without any coding, orchestration, or overhead.
+- **Creator of [Streamlit-Authenticator](https://github.com/mkhorasani/Streamlit-Authenticator)**. A secure authentication module to validate user credentials in a Streamlit application.
 
 ## ⚡ Employment:
 - **Software Developer at Iberdrola Innovation Middle East** - designing, developing and implementing software solutions for the advancement of renewable energy systems and services. My work requires me to develop cloud-native data analytics applications and to design embedded systems. This entails creating client and server side software, producing high fidelity CAD/CAM assemblies and automating sub-systems with micro-controllers. Proficient in cloud computing, data mining, data visualization, machine learning and natural language processing.
