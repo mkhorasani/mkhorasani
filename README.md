@@ -34,7 +34,7 @@ Here are some ideas to get you started:
  - [How to Synchronize Time Series Datasets in Python](https://towardsdatascience.com/how-to-synchronize-time-series-datasets-in-python-f2ae51bee212)
  - [How to Build a Real-time SCADA System Using Python and Arduino](https://towardsdatascience.com/how-to-build-a-real-time-scada-system-using-python-and-arduino-7b3acaf86d39)
  - [How to Generate Automated PDF Documents with Python](https://towardsdatascience.com/how-to-generate-automated-pdf-documents-with-python-55981f4d9e3)
- - [Automate Microsoft Excel and Word Using Python](https://towardsdatascience.com/automate-microsoft-excel-and-word-using-python-1eee9c003471#1472-daf5030a880e)
+ - [Automate Microsoft Excel and Word Using Python](https://towardsdatascience.com/automate-microsoft-excel-and-word-using-python-4244c613f818)
  - [Automate and Supercharge Google Colab with JavaScript](https://towardsdatascience.com/automate-and-supercharge-google-colab-with-javascript-9f494d98489d)
  - [Creating Interactive Radar Charts with Python](https://towardsdatascience.com/creating-interactive-radar-charts-with-python-2856d06535f6)
  - [Generating Automated Word Documents with Python](https://towardsdatascience.com/generating-automated-word-documents-with-python-d258346e1b45)
