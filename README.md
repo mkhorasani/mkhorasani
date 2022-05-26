@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - **Creator of [Streamlit-Authenticator](https://github.com/mkhorasani/Streamlit-Authenticator)** - a secure authentication module to validate user credentials in a Streamlit application.
 
 ## ⚡ Employment:
-- **Software Developer at Iberdrola Innovation Middle East** - designing, developing and implementing software solutions for the advancement of renewable energy systems and services. My work requires me to develop cloud-native data analytics applications and to design embedded systems. This entails creating client and server side software, producing high fidelity CAD/CAM assemblies, and automating sub-systems with micro-controllers. Proficient in cloud computing, data mining, data visualization, machine learning and natural language processing.
+- **Software Developer at Iberdrola Innovation Middle East** - designing, developing and implementing software solutions for the advancement of renewable energy systems and services. My work requires me to develop cloud-native data analytics applications and to design robotic systems. This entails creating client and server-side software, producing high fidelity CAD/CAM assemblies, and automating sub-systems with micro-controllers. Proficient in cloud computing, data mining, data visualization, machine learning, and natural language processing
 
 ## 📕 Latest Blog Posts
  - [How to Add a User Authentication Service in Streamlit](https://towardsdatascience.com/how-to-add-a-user-authentication-service-in-streamlit-a8b93bf02031)
