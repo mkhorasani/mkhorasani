@@ -6,8 +6,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkhorasani&show_icons=true&layout=compact" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=mkhorasani.mkhorasani)
-
 <!--
 **mkhorasani/mkhorasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,3 +45,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/mkhorasani/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://khorasani.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://grabcad.com/m.khorasani-1" target="_blank"><img alt="GrabCAD" src="https://img.shields.io/badge/GrabCAD-%230077B5.svg?&style=for-the-badge&logo=grabcad&logoColor=white" /></a>
+![](https://visitor-badge.glitch.me/badge?page_id=mkhorasani.mkhorasani)
+<br />
+
