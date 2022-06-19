@@ -1,6 +1,5 @@
-# M Khorasani
-![](https://visitor-badge.glitch.me/badge?page_id=mkhorasani.mkhorasani)
-<br />
+# M Khorasani ![](https://visitor-badge.glitch.me/badge?page_id=mkhorasani.mkhorasani)
+
 <a href="https://github-readme-stats.vercel.app/api?username=mkhorasani">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkhorasani&show_icons=true&hide_title=true" />
 </a>
