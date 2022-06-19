@@ -1,7 +1,7 @@
 # M Khorasani ![](https://visitor-badge.glitch.me/badge?page_id=mkhorasani.mkhorasani)
 
-| <a href="https://github-readme-stats.vercel.app/api?username=mkhorasani"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mkhorasani&show_icons=true&hide_title=true" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mkhorasani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkhorasani&show_icons=true&layout=compact" /></a> |
+| <a href="https://github-readme-stats.vercel.app/api?username=mkhorasani"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mkhorasani&show_icons=true&hide_title=true" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mkhorasani"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkhorasani&show_icons=true&layout=compact" /></a> |
+| ------------- | ------------- |
 
 <!--
 **mkhorasani/mkhorasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
