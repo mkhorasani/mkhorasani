@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 Projects:
-- **Founder of [DummyLearn](https://dummylearn.herokuapp.com/)** - a free online machine learning platform. All plug & play without any coding, orchestration, or overhead.
+- **Founder of [DummyLearn](https://mmd93k.wixsite.com/website-5)** - a free online machine learning platform. All plug & play without any coding, orchestration, or overhead.
 - **Creator of [Streamlit-Authenticator](https://github.com/mkhorasani/Streamlit-Authenticator)** - a secure authentication module to validate user credentials in a Streamlit application.
 
 ## ⚡ Employment:
