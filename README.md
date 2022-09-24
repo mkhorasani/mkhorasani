@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🌱 Projects:
-- **Author of ['Web Application Development with Streamlit'](https://www.amazon.com/Web-Application-Development-Streamlit-Applications/dp/1484281101?&linkCode=sl1&tag=mkhorasani09-20&linkId=8b8f63575c293b8a6eb73a4927190b97&language=en_US&ref_=as_li_ss_tl)** - develop and deploy secure and scalable web applications to the cloud using a pure Python framework
+- **Author of ['Web Application Development with Streamlit'](https://www.amazon.com/Web-Application-Development-Streamlit-Applications/dp/1484281101?&linkCode=sl1&tag=mkhorasani09-20&linkId=8b8f63575c293b8a6eb73a4927190b97&language=en_US&ref_=as_li_ss_tl)** - develop and deploy secure and scalable web applications to the cloud using a pure Python framework.
 - **Creator of [Streamlit-Authenticator](https://github.com/mkhorasani/Streamlit-Authenticator)** - a secure authentication module to validate user credentials in a Streamlit application.
 - **Founder of [DummyLearn](https://mmd93k.wixsite.com/website-5)** - a free online machine learning platform. All plug & play without any coding, orchestration, or overhead.
 
