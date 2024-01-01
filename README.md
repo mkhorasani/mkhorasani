@@ -1,4 +1,4 @@
-# M Khorasani <!-- ![](https://visitor-badge.glitch.me/badge?page_id=mkhorasani.mkhorasani) -->
+# Mohammad Khorasani <!-- ![](https://visitor-badge.glitch.me/badge?page_id=mkhorasani.mkhorasani) -->
 
 | <a href="https://github.com/mkhorasani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mkhorasani&show_icons=true&hide_title=true&include_all_commits=true&theme=bluefy&hide_border=true" /></a> | <a href="https://github.com/mkhorasani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkhorasani&layout=compact&theme=bluefy&hide_border=true" /></a> |
 | ------------- | ------------- |
