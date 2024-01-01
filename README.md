@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!-- - **Founder of [DummyLearn](https://mmd93k.wixsite.com/website-5)** - a free online machine learning platform. All plug & play without any coding, orchestration, or overhead. -->
 
 ## ⚡ Employment:
-- **Software Developer at Iberdrola** - designing, developing and implementing software solutions for the advancement of renewable energy systems and services. My work requires me to develop cloud-native data analytics applications and to design robotic systems. This entails creating client and server-side software, producing high fidelity CAD/CAM assemblies, and automating sub-systems with micro-controllers. Proficient in cloud computing, data mining, data visualization, machine learning, and natural language processing
+- **Software Developer at Iberdrola** - designing, developing, and implementing software solutions for advancing renewable energy systems and services. My work requires me to develop cloud-native data analytics applications and to design robotic systems. This entails creating client and server-side software, producing high-fidelity CAD/CAM assemblies, and automating sub-systems with micro-controllers.
 
 ## 📕 Latest Blog Posts
  - [How to Add a User Authentication Service in Streamlit](https://towardsdatascience.com/how-to-add-a-user-authentication-service-in-streamlit-a8b93bf02031)
