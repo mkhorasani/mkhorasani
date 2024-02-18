@@ -8,7 +8,6 @@
 ![](https://komarev.com/ghpvc/?username=mkhorasani&color=blue)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkhorasani&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mkhorasani&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mkhorasani&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mkhorasani&theme=default&) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mkhorasani&theme=default&utcOffset=8)
 
 <!--
