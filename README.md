@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=mkhorasani&color=blue)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkhorasani&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mkhorasani&theme=default&) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mkhorasani&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mkhorasani&theme=default&) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mkhorasani&theme=default&utcOffset=3)
 
 <!--
 **mkhorasani/mkhorasani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
