@@ -42,7 +42,7 @@ Here are some ideas to get you started:
  - [Automate Microsoft Excel and Word Using Python](https://towardsdatascience.com/automate-microsoft-excel-and-word-using-python-4244c613f818)
  - [Automate and Supercharge Google Colab with JavaScript](https://towardsdatascience.com/automate-and-supercharge-google-colab-with-javascript-9f494d98489d)
  - [Creating Interactive Radar Charts with Python](https://towardsdatascience.com/creating-interactive-radar-charts-with-python-2856d06535f6)
- - [Generating Automated Word Documents with Python](https://towardsdatascience.com/generating-automated-word-documents-with-python-d258346e1b45)
+ - [How to Generate Automated Word Documents with Python](https://medium.com/python-in-plain-english/how-to-generate-automated-word-documents-with-python-d6b7f6d3f801)
  - [Develop and Deploy a UI with Python in Under 15 Minutes](https://towardsdatascience.com/develop-and-deploy-a-ui-with-python-in-under-15-minutes-f92e289f754b)
  - [Building a Data Warehouse in Python Using PostgreSQL](https://towardsdatascience.com/building-a-data-warehouse-in-python-using-postgresql-f10dce22e3aa)
 
